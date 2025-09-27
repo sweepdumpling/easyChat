@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "wechat_path": "F:/Program Files (x86)/WeChat/WeChat.exe",
+        "send_interval": 0,
+        "language": "zh-CN"
+    },
+    "contacts": [],
+    "messages": [],
+    "schedules": []
+}
