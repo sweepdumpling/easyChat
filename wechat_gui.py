@@ -587,7 +587,7 @@ class WechatGUI(QWidget):
 
         self.setLayout(vbox)
         # self.setFixedSize(width*0.2, height*0.6)
-        self.setWindowTitle('EasyChat微信助手(作者：LTEnjoy)')
+        self.setWindowTitle('微信群发助手')
         self.show()
 
     # 选择微信exe路径
